@@ -1,0 +1,19 @@
+body {
+  background-color: #fffafa;
+}
+h1 {
+  font-family: "Montserrat", cursive;
+  margin: 0px 0px 0px 360px;
+}
+.date {
+  font-family: "Roboto";
+  color: #008080;
+  margin: 40px 0px 0px 360px;
+}
+.post-content {
+  font-family: "Open Sans";
+  margin: 0px 550px 50px 360px;
+}
+hr {
+  margin: 0px 480px 0px 300px;
+}
